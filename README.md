@@ -5,7 +5,7 @@
 <img src="https://github.com/ahmd-yas5er.png" width="140" alt="ahmd-yas5er"/>
 <br/>
 <a href="https://github.com/ahmd-yas5er">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=B0B0B0&center=true&vCenter=true&width=600&lines=CSE+Student+%40+Zagazig+Universit;Will+we+finally+be+free+%F0%9F%AA%BD" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=B0B0B0&center=true&vCenter=true&width=600&lines=CSE+Student+%40+Zagazig+University;Will+we+finally+be+free+%F0%9F%AA%BD" alt="Typing SVG" />
 </a>
 </p>
 <br/>
