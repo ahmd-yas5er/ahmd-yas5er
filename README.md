@@ -56,10 +56,10 @@ Computer and Systems Engineering student at **Zagazig University**, with a stron
 <a href="mailto:ahmedyasser33843@gmail.com">
   <img src="https://img.shields.io/badge/Email-1a1a1a?style=for-the-badge&logo=gmail&logoColor=b0b0b0&labelColor=000000" />
 </a>
-<a href="https://www.instagram.com/ays_raven">
+<a href="https://www.instagram.com/ahmd_yas5er">
   <img src="https://img.shields.io/badge/Instagram-1a1a1a?style=for-the-badge&logo=instagram&logoColor=b0b0b0&labelColor=000000" />
 </a>
-<a href="https://www.facebook.com/ahmed.yasser.38196">
+<a href="https://www.facebook.com/ahmdyas5er">
   <img src="https://img.shields.io/badge/Facebook-1a1a1a?style=for-the-badge&logo=facebook&logoColor=b0b0b0&labelColor=000000" />
 </a>
 
